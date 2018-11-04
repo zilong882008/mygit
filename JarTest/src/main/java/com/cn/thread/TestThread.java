@@ -9,7 +9,6 @@ public class TestThread {
 		GetThread g1 = new GetThread(bq);
 		SendThread s1=new SendThread(bq,"店铺1");
 		SendThread s2=new SendThread(bq,"店铺2");
-		
 		g1.start();
 		s1.start();
 		s2.start();
