@@ -3,6 +3,11 @@ package com.cn.thread;
 import java.util.concurrent.ArrayBlockingQueue;
 import java.util.concurrent.BlockingQueue;
 
+/**
+ * 线程测试类20181104  2233
+ * @author 子龙
+ *
+ */
 public class TestThread2 {
 	private static  BlockingQueue<String> list= new ArrayBlockingQueue<String>(100);
 	public static void main(String[] args) throws InterruptedException {
