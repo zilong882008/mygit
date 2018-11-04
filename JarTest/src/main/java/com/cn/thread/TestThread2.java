@@ -16,6 +16,7 @@ public class TestThread2 {
 				for(int i=0;i<20;i++){
 					list.add("添加"+i);
 					System.out.println("添加"+i);
+					System.out.println("aa");
 					try {
 						sleep(1000);
 					} catch (InterruptedException e) {
