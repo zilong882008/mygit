@@ -5,6 +5,8 @@ public class UserTest {
 		for(int i=0;i<10;i++){
 			System.out.println("user:"+i);
 			System.out.println("2315");
+			System.out.println("bb");
+			System.out.println("bb");
 		}
 	}
 }
