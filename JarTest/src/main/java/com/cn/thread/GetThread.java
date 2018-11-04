@@ -4,7 +4,7 @@ import java.util.concurrent.BlockingQueue;
 
 public class GetThread extends Thread {
 	
-	private BlockingQueue<String> bq;//fasd
+	private BlockingQueue<String> bq;//fasd  gzl分支
 	
 	public GetThread(BlockingQueue<String> bq) {
 		super();
