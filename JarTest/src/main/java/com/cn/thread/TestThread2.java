@@ -17,6 +17,10 @@ public class TestThread2 {
 					list.add("添加"+i);
 					System.out.println("添加"+i);
 					System.out.println("aa");
+					System.out.println("dd");
+					if(11==11) {
+						System.out.println("bb");
+					}
 					try {
 						sleep(1000);
 					} catch (InterruptedException e) {
