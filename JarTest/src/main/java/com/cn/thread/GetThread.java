@@ -17,6 +17,7 @@ public class GetThread extends Thread {
 			 System.out.println("添加商品>>> N"+i);//添加注释
 			 bq.add("N"+i);
 			 System.out.println("122");
+			 System.out.println("222");
 		 }
 		 bq.add("end");
 	}
