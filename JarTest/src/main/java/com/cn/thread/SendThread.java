@@ -4,7 +4,7 @@ import java.util.concurrent.BlockingQueue;
 
 public class SendThread extends Thread {
 
-	private BlockingQueue<String> bq;
+	private BlockingQueue<String> bq; //gzl 
 	private String name;
 
 	public SendThread(BlockingQueue<String> bq,String name) {
