@@ -6,7 +6,7 @@ import java.util.concurrent.BlockingQueue;
 
 /**
  * 线程测试类20181104  2233  2242
- * @author 子龙
+ * @author 子龙  dafsd
  *
  */
 
