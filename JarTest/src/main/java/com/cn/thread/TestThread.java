@@ -13,5 +13,6 @@ public class TestThread {
 		s1.start();
 		s2.start();
 		System.out.println("bb");
+		System.out.println("cc");
 	}
 }
