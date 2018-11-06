@@ -12,6 +12,6 @@ public class TestThread {
 		g1.start();
 		s1.start();
 		s2.start();
-
+		System.out.println("bb");
 	}
 }
