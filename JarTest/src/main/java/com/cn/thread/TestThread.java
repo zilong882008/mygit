@@ -18,5 +18,6 @@ public class TestThread {
 		System.out.println("ccdd");
 		System.out.println("测试2");
 		System.out.println("测试3");
+		System.out.println("666");
 	}
 }
