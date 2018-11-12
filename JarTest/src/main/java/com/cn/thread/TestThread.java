@@ -15,5 +15,6 @@ public class TestThread {
 		System.out.println("bb");
 		System.out.println("cc");
 		System.out.println("gzl");
+		System.out.println("ccdd");
 	}
 }
