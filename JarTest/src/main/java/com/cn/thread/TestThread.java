@@ -14,5 +14,6 @@ public class TestThread {
 		s2.start();
 		System.out.println("bb");
 		System.out.println("cc");
+		System.out.println("gzl");
 	}
 }
