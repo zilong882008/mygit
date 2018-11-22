@@ -13,4 +13,7 @@ public class UserService {
 	public void delUser() {
 		System.out.println("删除用户");
 	}
+	public void editUserRole() {
+		System.out.println("用户添加权限");
+	}
 }
